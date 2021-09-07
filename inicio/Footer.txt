@@ -1,0 +1,16 @@
+
+HTML
+<!--Inicio de footer-->
+  <div class="w-100 text-center main-footer">
+    <p> Hecho con ❤ en Colombia
+    <p>
+  </div>
+  <!--Fin del footer-->
+
+
+CSS
+.main-footer{
+    background-color: #a2b99b;
+    height:63px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
